@@ -1,0 +1,31 @@
+{
+    "results": [
+      {
+        "id": "1",
+        "url": "http://localhost:5003/images/glomerulo_test.jpg",
+        "thumbnail_url": "http://localhost:5003/images/glomerulo_test.jpg",
+        "description": "Imagem de glomerulo",
+        "tags": ["Hipercelularidade", "Membranosa", "Podocitopatia"],
+        "score": 0.9
+      },
+      {
+        "id": "2",
+        "url": "http://localhost:5003/images/glomerulo_test.jpg",
+        "thumbnail_url": "http://localhost:5003/images/glomerulo_test.jpg",
+        "description": "Imagem de glomerulo",
+        "tags": ["Normal"],
+        "score": 0.8
+      },
+      {
+        "id": "3",
+        "url": "http://localhost:5003/images/glomerulo_test.jpg",
+        "thumbnail_url": "http://localhost:5003/images/glomerulo_test.jpg",
+        "description": "Imagem de glomerulo",
+        "tags": ["Membranosa", "Crescente", "Esclerose"],
+        "score": 0.7
+      }
+    ]
+  }
+
+  
+  

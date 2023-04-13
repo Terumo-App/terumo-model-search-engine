@@ -1,0 +1,1 @@
+docker run --name terumo-service-search-engine -p5003:5003 terumo-service-search-engine 
